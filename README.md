@@ -2,7 +2,7 @@ I am an erudite technical writer, copywriter, internal communications specialist
 
 I am interested in front-end development, writing and managing internal business communication efforts (newsletter, knowledge bases, etc.), and developing apps that make every professional’s life easier.
 
-I am currently learning CSS and SQL. 
+I know basic HTML, CSS and SQL. 
 
 I am eager to collaborate on cool do not intrude on their information. 
 
